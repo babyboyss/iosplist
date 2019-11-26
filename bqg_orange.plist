@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zhibin.bigequ</string>
+				<string>com.zhibin.movie</string>
 				<key>bundle-version</key>
 				<string>3.0</string>
 				<key>kind</key>
